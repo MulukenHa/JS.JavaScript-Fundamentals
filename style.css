@@ -1,0 +1,39 @@
+body{
+    background: #89A8B2;
+}
+.sec1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+    background: #9ABF80;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.task11{
+    background: #DEAA79;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.task22{
+    background: #FFE6A9;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width:40%;
+}
+
+.sec2{
+    background: #FFE6A9;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.task33{
+    background:  #659287;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
