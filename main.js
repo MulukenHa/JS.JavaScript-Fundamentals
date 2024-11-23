@@ -21,10 +21,10 @@ function MulAddCal(){
     var s1 = document.getElementById("val1").value;
     var s2 = document.getElementById("val2").value;
     var mul = Number(s1) * Number(s2)
-    var add = Number(s1) + Number(s2)
+    var div = Number(s1) / Number(s2)
 
     var res = document.getElementById("MulAdd")
-    res.innerHTML = "Multiplication Result is:" + mul + " " +  " Addition Result is: " + add;
+    res.innerHTML = "Multiplication Result is:" + mul + " " +  " division Result is: " + div;
 }
 
 function stringConcat(){
